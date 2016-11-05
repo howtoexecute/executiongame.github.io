@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-05T18:35:19-04:00</updated><id>http://localhost:4000//</id><title type="html">How to Execute</title><subtitle>Execution is the game. Here's how to play the damn game.</subtitle><entry><title type="html">What are the main areas of execution to get right?</title><link href="http://localhost:4000/blog/2016/11/01/area-of-execution.html" rel="alternate" type="text/html" title="What are the main areas of execution to get right?" /><published>2016-11-01T10:00:00-04:00</published><updated>2016-11-01T10:00:00-04:00</updated><id>http://localhost:4000/blog/2016/11/01/area-of-execution</id><content type="html" xml:base="http://localhost:4000/blog/2016/11/01/area-of-execution.html">&lt;p&gt;&lt;strong&gt;Team, Product &amp;amp; Growth!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a little bit more complicated than &quot;get this right and you will succeed&quot;, but these three things are crucial. Team, product and growth are the three variables you can control on a day-to-day basis and you must pay very good attention to them.&lt;/p&gt;
+
+&lt;p&gt;The priority changes depending on your business stage and that is up to you to figure it out. Plus, you need to keep your eyes on the ball while watching the other two. That's why execution is so hard. You need all three to succeed, if only one of the three goes south, you are screwed! As a starting point, I think you should tackle everything in this specific order&lt;/p&gt;
+
+&lt;h3&gt;Team&lt;/h3&gt;
+
+&lt;p&gt;Your team is the first thing you should focus on. You need to make sure you surround yourself with the best people from day 1. You would rather have an A-team with a B-product than a B-team with a A-product. A great team can turn a business around when the product sucks but a great product won't save a bad team during tough days.&lt;/p&gt;
+
+&lt;p&gt;Choosing a team is a critical part of your execution. From the founding members to your first employees, you need to hire awesome people. By awesome I mean, smart and fun to work with. I don't want to scare the shit out of you, but a bad decision can cost you your company.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;A- You want to be surrounded by people who are equally smart at the very least or smarter.&lt;/li&gt;
+	&lt;li&gt;B- You want everyone to have the same vision, values, motivation and passion for what you are building.&lt;/li&gt;
+	&lt;li&gt;C- You want a complementary and multidisciplinary team.&lt;/li&gt;
+	&lt;li&gt;D- You want someone you will enjoy spending your life with. You're in for a hell of a ride!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Product&lt;/h3&gt;
+
+&lt;p&gt;You are gonna be selling this, so you better be god damn proud of it. However, you need to balance high quality and speed of delivery. You need to understand that sometimes it is better to ship a not-so-perfect product quickly than a perfect product too late.&lt;/p&gt;
+
+&lt;p&gt;Developing a successful product remains something pretty hard even nowadays. A lot of products fail every day and every year. While some people have the ability to develop product with intuition, most of us need to rely on real data. It doesn't mean your intuition should be left out, but you need to balance that with validation.&lt;/p&gt;
+
+&lt;p&gt;It will dramatically increase the success of your product if... &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;You are solving a meaningful problem for your users.&lt;/li&gt;
+	&lt;li&gt;You listen to what your users has to say about what you've built so far.&lt;/li&gt;
+	&lt;li&gt;You develop the features you are sick of hearing about. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Growth&lt;/h3&gt;
+
+&lt;p&gt;You won't wake up tomorrow with half a million users. You need to test channels, measure results and figure out what makes sense for your product. This is never ending trial and error because your channel today may not be working tomorrow. Don't dismiss channels because you think they don't work or because your competitors don't use them. In fact, you should use the channels your competitors as dismissed.&lt;/p&gt;
+
+&lt;p&gt;Here are the &lt;a href=&quot;https://medium.com/swlh/the-19-channels-you-can-use-to-get-traction-93c762d19339#.suid4h632&quot;&gt;19 channels of acquisiton&lt;/a&gt; proposed by the book &quot;Traction&quot;:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Targeting blogs&lt;/li&gt;
+	&lt;li&gt;Publicity&lt;/li&gt;
+	&lt;li&gt;Search engine marketing&lt;/li&gt;
+	&lt;li&gt;Unconventional PR&lt;/li&gt;
+	&lt;li&gt;Search engine optimization&lt;/li&gt;
+	&lt;li&gt;Social and display ads&lt;/li&gt;
+	&lt;li&gt;Offline ads&lt;/li&gt;
+	&lt;li&gt;Content marketing&lt;/li&gt;
+	&lt;li&gt;Email marketing&lt;/li&gt;
+	&lt;li&gt;Viral marketing&lt;/li&gt;
+	&lt;li&gt;Engineering as marketing&lt;/li&gt;
+	&lt;li&gt;Business Development&lt;/li&gt;
+	&lt;li&gt;Sales&lt;/li&gt;
+	&lt;li&gt;Affiliate programs&lt;/li&gt;
+	&lt;li&gt;Existing platforms&lt;/li&gt;
+	&lt;li&gt;Trade shows&lt;/li&gt;
+	&lt;li&gt;Offline events&lt;/li&gt;
+	&lt;li&gt;Speaking engagements&lt;/li&gt;
+	&lt;li&gt;Community building&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You don't want to spend too much money on acquisition if you have a leaking bucket at the other end. By leaking bucket I mean a product that has a bad retention. Every product has a breaking point where your retention is too bad to continue growing. This will happen regardless of the amount of money spent because at one point you either don't have enough money to sustain or you can't acquire more users.The best and least expensive way to grow remains to increase your retention.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team + Product + Growth ≠ 100% chance of success.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;However, you are making damn sure you are on the right track.&lt;/small&gt;&lt;/p&gt;</content><summary type="html">Team, Product &amp;amp; Growth!</summary></entry><entry><title type="html">Execution is the Game.</title><link href="http://localhost:4000/blog/2016/10/31/execution-is-the-game.html" rel="alternate" type="text/html" title="Execution is the Game." /><published>2016-10-31T10:57:54-04:00</published><updated>2016-10-31T10:57:54-04:00</updated><id>http://localhost:4000/blog/2016/10/31/execution-is-the-game</id><content type="html" xml:base="http://localhost:4000/blog/2016/10/31/execution-is-the-game.html">&lt;p&gt;&lt;em&gt;Have you heard that line before? &quot;An idea is worth nothing without execution&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I don't think I have ever met someone willing to challenge that. You may have a great idea, but if you can't execute.. well that ain't shit pal. On the other end, you may have a very ordinary idea combined with a laser-focused execution and you will succeed.&lt;/p&gt;
+
+&lt;p&gt;Execution is - indeed - the game. It is 99% execution and the tiny 1% leftover is your idea. (the percentage is arguable, the outcome of a great execution is not)&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;What is execution?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;By definition, &quot;the carrying out or putting into effect of a plan, order, or course of action.&quot; I think by definition it is crystal clear, but let's adapt it. This is a bunch of items on your to-do lists, sometimes following a very specific order, that you need to get right in order to build a thriving business. Execution is your everyday actions and your every month, quarter or year priorities.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Why execution is such a deal breaker?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;There is two critical aspect in the execution, knowing and doing. You need to know what to do and then you need to do what you know. Your execution doesn't have to be perfect. However, you need to get as many things right as possible. &quot;Many&quot; is not a fixed number and it depends on a shit load of things. It is an always changing landscape. Some people know, but they can't do and for other people it is the opposite. Whether you are working alone or as a team, you need focus and commitment to figure out what to do and then doing it.&lt;/p&gt;
+
+&lt;p&gt;Nobody is pretending anything, but there are some key principles combined with experience that can lead you a long way when it comes to executing for your startup.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here is how to play the damn game!&lt;/strong&gt;&lt;/p&gt;</content><summary type="html">Have you heard that line before? &quot;An idea is worth nothing without execution&quot;</summary></entry></feed>

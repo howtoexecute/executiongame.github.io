@@ -1,0 +1,28 @@
+<footer class="row site-footer">
+
+  <div class="container-fluid">
+
+  <!--   <div class="col-sm-10 col-sm-offset-1">
+      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    </div>
+
+    <div class="row">
+      <div class="container-fluid"> -->
+
+        <div class="col-sm-5 col-sm-offset-1">
+          <ul class="contact-list">
+          {% if site.email %}
+          <li><a href="mailto:{{ site.email }}">{{ site.title }}</a></li>
+          {% endif %}
+          </ul>
+        </div>
+
+        <div class="col-sm-6 footer-description">
+          <p>{{ site.description | escape }}</p>
+        </div>
+
+<!--       </div>
+    </div> -->
+  </div>
+
+</footer>
